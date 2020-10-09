@@ -13,7 +13,7 @@ namespace GameTOP
         }
         public void IniciarJogo()
         {
-            System.Console.Write($"{_jogador._Nome}Jogador deu Um Passe");
+            System.Console.Write($"{_jogador._Nome}Fazendo uma acao");
         }
     }
 
