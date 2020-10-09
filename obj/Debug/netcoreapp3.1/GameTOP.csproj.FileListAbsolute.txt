@@ -1,0 +1,13 @@
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.exe
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.deps.json
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.json
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.dev.json
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.dll
+E:\Angular\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.pdb
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csprojAssemblyReference.cache
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csproj.CoreCompileInputs.cache
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfoInputs.cache
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfo.cs
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb
+E:\Angular\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.genruntimeconfig.cache
