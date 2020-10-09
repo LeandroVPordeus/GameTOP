@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 
 namespace GameTOP
 {
@@ -21,15 +21,15 @@ namespace GameTOP
 
         public void Chuta()
         {
-            Console.Write($"{_Nome}Esta Chutando");
+            System.Console.Write($"{_Nome}Esta Chutando");
         }
         public void Corre()
         {
-            Console.Write($"{_Nome}Esta Correndo");
+            System.Console.Write($"{_Nome}Esta Correndo");
         }
         public void Pases()
         {
-            Console.Write($"{_Nome}Esta Passando");
+            System.Console.Write($"{_Nome}Esta Passando");
         }
         
     }
